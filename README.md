@@ -7,4 +7,3 @@ Link para o projeto no github: [curso-djando](https://github.com/ogpgit/curso-dj
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-- criar a estrutura inicial de arquivos de seu projeto e rodar o servidor localmente. Arquivo manege.py
