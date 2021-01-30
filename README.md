@@ -9,4 +9,5 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-teste
+Pytest Django
+Nessa aula você vai aprender como configurar o pytest para construir testes automatizados par ao Django.
