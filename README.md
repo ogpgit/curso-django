@@ -11,3 +11,4 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 
 Pytest Django
 Nessa aula você vai aprender como configurar o pytest para construir testes automatizados par ao Django.
+teste 01
