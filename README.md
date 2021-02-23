@@ -14,4 +14,5 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 
 Domínio e ALLOWED_HOSTS
 
+
 Nessa aula você vai conferir como criar um domínio para sua aplicação, configurar o DNS para apontar para seu servidor e alterar sua variável ALLOWED_HOSTS para permitir acesso à suas aplicação.
