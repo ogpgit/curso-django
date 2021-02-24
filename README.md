@@ -12,7 +12,6 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Domínio e ALLOWED_HOSTS
+Secret Key
 
-
-Nessa aula você vai conferir como criar um domínio para sua aplicação, configurar o DNS para apontar para seu servidor e alterar sua variável ALLOWED_HOSTS para permitir acesso à suas aplicação.
+Nessa aula você vai aprender como gerar uma chave secreta aleatória e setar esse valor como uma configuração de instância.
