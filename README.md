@@ -14,4 +14,5 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 
 Secret  Key
 
+
 Nessa aula você vai aprender como gerar uma chave secreta aleatória e setar esse valor como uma configuração de instância.
