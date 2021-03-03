@@ -14,5 +14,6 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 
 Domínio e ALLOWED_HOSTS
 
+
 Endereço de Banco de Dados
 Nesse tópico você vai aprender como extrair a configuração com endereço para o seu banco de dados.
