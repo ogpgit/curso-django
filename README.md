@@ -12,7 +12,7 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Secret  Key
+Domínio e ALLOWED_HOSTS
 
-
-Nessa aula você vai aprender como gerar uma chave secreta aleatória e setar esse valor como uma configuração de instância.
+Endereço de Banco de Dados
+Nesse tópico você vai aprender como extrair a configuração com endereço para o seu banco de dados.
