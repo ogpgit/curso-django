@@ -12,6 +12,7 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Endereço de Banco de Dados
+Testando Postgresql no Travis
 
-Nesse tópico você vai aprender como extrair a configuração com endereço para o seu banco de dados.
+Nessa aula você vai aprender como instalar o Postgresql no servidor para poder testar sua aplicação, bem como 
+instalar o driver de comunicação entre Python e o banco de dados.
