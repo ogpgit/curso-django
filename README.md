@@ -12,8 +12,6 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Domínio e ALLOWED_HOSTS
-
-
 Endereço de Banco de Dados
+
 Nesse tópico você vai aprender como extrair a configuração com endereço para o seu banco de dados.
