@@ -12,7 +12,7 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Lingua e Fuso Horário
+Comando de Coleta de Arquivos Estáticos
 
-Nessa aula você vai aprender como colocar a lingua padrão do website para português brasileiro e também como 
-configurar o fuso horário
+Nessa aula você vai conferir como utilizar utilizar o comando collectstatic para coletar os arquivos estáticos 
+da sua aplicação. Além disso você já vai configurar a sua aplicação para fazer upload de arquivos localmente.
