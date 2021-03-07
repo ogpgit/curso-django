@@ -12,7 +12,7 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Testando Postgresql no Travis
+Lingua e Fuso Horário
 
-Nessa aula você vai aprender como instalar o Postgresql no servidor para poder testar sua aplicação, bem como 
-instalar o driver de comunicação entre Python e o banco de dados.
+Nessa aula você vai aprender como colocar a lingua padrão do website para português brasileiro e também como 
+configurar o fuso horário
