@@ -12,7 +12,6 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Comando de Coleta de Arquivos Estáticos
+Criação de Usuário na Amazon
 
-Nessa aula você vai conferir como utilizar utilizar o comando collectstatic para coletar os arquivos estáticos 
-da sua aplicação. Além disso você já vai configurar a sua aplicação para fazer upload de arquivos localmente.
+Nessa aula você vai conferir como criar um usuário na Amazon para poder fazer o upload de seus arquivos para o S3.
