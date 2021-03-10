@@ -14,5 +14,6 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 
 Criação e Configuração do S3
 
+
 Nessa aula você vai aprender a criar e configurar a CDN da Amazon (S3) para poder enviar e acessar seus 
 arquivos na nuvem.
