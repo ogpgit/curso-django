@@ -12,6 +12,7 @@ Aplicação disponível no  https://pythonprodjjango.herokuapp.com/
 [![Python 3](https://pyup.io/repos/github/ogpgit/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/ogpgit/curso-django/)
 [![Build Status](https://travis-ci.org/ogpgit/curso-django.svg?branch=main)](https://travis-ci.org/ogpgit/curso-django)
 
-Criação de Usuário na Amazon
+Criação e Configuração do S3
 
-Nessa aula você vai conferir como criar um usuário na Amazon para poder fazer o upload de seus arquivos para o S3.
+Nessa aula você vai aprender a criar e configurar a CDN da Amazon (S3) para poder enviar e acessar seus 
+arquivos na nuvem.
